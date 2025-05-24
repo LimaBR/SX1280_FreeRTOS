@@ -17,7 +17,7 @@ Maintainer: Miguel Luis, Gregory Cristian and Matthieu Verdy
 #define __SX1280_H__
 
 #include <inttypes.h>
-#include <Shared/SX1280Lib/Radio.hpp>
+#include "Radio.hpp"
 #include <cmath>
 
 /*!

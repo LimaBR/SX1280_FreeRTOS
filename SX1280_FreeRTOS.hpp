@@ -20,7 +20,7 @@ Maintainer: Miguel Luis and Gregory Cristian
 #include <SPI_Master.hpp>
 #include <FreeRTOS.h>
 #include <event_groups.h>
-#include <Shared/SX1280Lib/SX1280.hpp>
+#include "SX1280.hpp"
 
 /*!
  * \brief Actual implementation of a SX1280 radio

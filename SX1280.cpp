@@ -14,7 +14,7 @@ License: Revised BSD License, see LICENSE.TXT file include in the project
 Maintainer: Miguel Luis, Gregory Cristian and Matthieu Verdy
 */
 #include <cstring>
-#include <Shared/SX1280Lib/SX1280.hpp>
+#include "SX1280.hpp"
 
 /*!
  * \brief Radio registers definition

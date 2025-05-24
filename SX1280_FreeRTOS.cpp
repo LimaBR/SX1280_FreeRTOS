@@ -15,7 +15,7 @@ Maintainer: Miguel Luis, Gregory Cristian and Matthieu Verdy
 */
 #include <functional>
 #include <FreeRTOS.h>
-#include <Shared/SX1280Lib/SX1280_FreeRTOS.hpp>
+#include "SX1280_FreeRTOS.hpp"
 #include <task.h>
 #include <cstring>
 
