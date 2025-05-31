@@ -418,7 +418,7 @@ typedef enum
     LORA_CR_4_8                             = 0x04,
     LORA_CR_LI_4_5                          = 0x05,
     LORA_CR_LI_4_6                          = 0x06,
-    LORA_CR_LI_4_7                          = 0x07,
+    LORA_CR_LI_4_8                          = 0x07,
 }RadioLoRaCodingRates_t;
 
 /*!
